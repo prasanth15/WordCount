@@ -1,0 +1,4 @@
+INDEX VERSION 1.129+C:\Users\Prasanth\UTD\Fall 2017\CS 6350 Big Data Management & Analytics\Assignments\Practical Assignments\Assignment 0\Java\WordCount\.metadata\.plugins\org.eclipse.jdt.core
+1654674800.index
+1686655237.index
+905084973.index
