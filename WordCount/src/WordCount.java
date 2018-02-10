@@ -1,6 +1,6 @@
 /**
  * Assignment 0 : Word Count - Problem 2
- * @author Prasanth Kesava Pillai(pxk163630) & Subrahmanyam Oruganti(oxs160430)
+ * @author Prasanth Kesava Pillai(pxk163630)
  */
 
 import java.io.BufferedReader;
